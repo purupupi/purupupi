@@ -14,7 +14,7 @@ I'm a **Programming Major student** at **Incheon Semiconductor High School** wit
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=purupupi&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🦆 Fun Fact: I Love Ducks! 
-![Duck Image](https://imgur.com/uhfpIYP.jpg)  
+![Duck Image](https://imgur.com/8bVzBjm.jpg)  
 Ducks are amazing. They're cute, fluffy, and always make my day brighter!
 
 ## 🔗 Connect with Me
