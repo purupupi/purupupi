@@ -1,39 +1,31 @@
-## Hi there 👋
+# 🦆 Hello, I'm **purupupi** 👋
 
-<!--
-**purupupi/purupupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Programming Major student** at **Incheon Semiconductor High School** with a love for **game development**, **software development**, and of course, **ducks**! 🦆
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm **purupupi** 👋
-
-I'm a **Programming Major student** at **Incheon Semiconductor High School**. I'm passionate about **game development**, **software development**, and **numerical methods**.
-
-## 👨‍💻 Tech Stack
+## 🖥️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-## 🚀 Current Projects
-- [Game Development Portfolio](https://github.com/purupupi) - A collection of my Unity and Python-based games.
-- [Flask Web App](https://github.com/purupupi) - A web service project using Flask.
+## 🌟 Current Projects
+- [Game Development Portfolio](https://github.com/purupupi) - A showcase of my Unity and Python games with exciting mechanics and visuals.
+- [Flask Web App](https://github.com/purupupi) - A web service project using Flask, diving into backend development!
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=purupupi&show_icons=true)
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=purupupi&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 🔗 Find me on
+## 🦆 Fun Fact: I Love Ducks! 
+![Duck Image](https://imgur.com/uhfpIYP.jpg)  
+Ducks are amazing. They're cute, fluffy, and always make my day brighter!
+
+## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/your-twitter)
 
-## 💬 Reach out to me
-Feel free to contact me if you want to collaborate on projects, or just want to chat about programming, game development, or anything else!
+## 💬 Let's Chat!
+Feel free to reach out if you're interested in collaborating on projects, or if you just want to talk about **ducks**, **game dev**, or **programming**!
 
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+Thanks for visiting my profile! 🦆💻
